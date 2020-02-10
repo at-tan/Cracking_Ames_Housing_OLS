@@ -1,4 +1,4 @@
-# Ames_housing_I
+# Ames_housing
 Linear regression modelling of the Ames housing dataset (2011), with the goal of predicting the house sale price. I used a log-linear model, and was guided by the hedonic pricing method to analysing house prices.
 
 Dependent variable: log Sale Price

@@ -3,4 +3,4 @@ Linear regression modelling of the Ames housing dataset (2011), with the chief g
 
 The assorted property size variables, namely internal living area, basement finished area, lot area and garage area, were all found to be positively correlated to the sale price, and statistically significant. Build quality and condition were also found to be among the most important determinants of house prices, as was location desirability. The use of the OLS model allows for the simultaneous pursuit of prediction and statistical inference. The overall model and individual variable effects may also be easily communicated to non-technical audiences.
 
-A description of the research methodology and the model findings are presented in https://towardsdatascience.com/wrangling-through-dataland-modeling-house-prices-in-ames-iowa-75b9b4086c96
+A description of the research methodology and the model findings are presented in https://medium.com/data-science/wrangling-through-dataland-modeling-house-prices-in-ames-iowa-75b9b4086c96
